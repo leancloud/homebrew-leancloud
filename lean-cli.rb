@@ -1,9 +1,9 @@
 class LeanCli < Formula
   desc "Command line tool to develop and manage LeanCloud apps."
   homepage "https://leancloud.com"
-  url "https://github.com/leancloud/lean-cli/archive/v0.1.0.tar.gz"
+  url "https://github.com/leancloud/lean-cli/archive/v0.1.1.tar.gz"
   head "https://github.com/leancloud/lean-cli.git"
-  sha256 "00eb7ddb5016d16a3f41bc2de9991d5086581fdbe504cc77fbe875db1296e9bf"
+  sha256 "c7b8e76945a7841b9bf795409a267addf60141079365d893810a2c171b0162be"
 
   depends_on "go" => :build
 
